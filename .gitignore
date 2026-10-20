@@ -1,0 +1,9 @@
+myenv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.pkl
+*.checkpoint
+events.csv
+events_p1_filtered.csv
+events_p2_filtered.csv
